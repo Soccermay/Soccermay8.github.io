@@ -13,7 +13,7 @@ body {
 }
 
 #header {
-    width: 95%;
+    width: 65%;
     height: 100vh;
     background-image: url(images/Background1.jpg);
     background-size: cover;
@@ -74,7 +74,7 @@ nav ul li a:hover::after {
 }
 
 .header-text h1 span {
-    color: #1815c4;
+    color: #c41515;
 }
 /*------------------about----------------*/
 #about {
