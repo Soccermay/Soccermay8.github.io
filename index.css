@@ -330,6 +330,7 @@ nav ul li a:hover::after {
 .btn.btn2 {
     display: inline-block;
     background: #1815c4;
+    cursor: pointer;
 }
 
 .contact-right form {
